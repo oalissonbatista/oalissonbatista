@@ -4,6 +4,7 @@
 - 🎓 Estou cursando Engenharia de Software na UnB (Universidade de Brasília)<br>
 - 🏐 Sou jogador de volei<br>
 - 💻 Atualmente aprendendo HTML5, CSS3, Javascript, C e C++<br>
+<br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://i.pinimg.com/originals/13/a8/94/13a89487b6a28c9fd6fee57cf6bc5e2c.png" width="40" height="40"/> <img src="https://www.pngmart.com/files/7/Python-PNG-File.png" width="40" height="40"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png" width="40" height="40"/> <img src="https://bognarjunior.files.wordpress.com/2018/01/1crcyaithv7aiqh1z93v99q.png" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="40" height="40"/>
 
