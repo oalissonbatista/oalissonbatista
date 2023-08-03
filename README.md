@@ -15,10 +15,10 @@
   <a href = "https://www.linkedin.com/in/alisson-batista-742309242"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://api.whatsapp.com/send?phone=5561993031494&text=Ol%C3%A1,%20acessei%20seu%20link%20no%20github"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "https://t.me/oalissonbatista"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-   <img align="right" width="250" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+  <br>
+  <br>
+   <img align="center center" width="250" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
   
   <br>
-  
-   ![Snake animation](https://github.com/oalissonbatista/oalissonbatista/blob/output/github-contribution-grid-snake.svg)
  
 </div>
