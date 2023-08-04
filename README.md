@@ -1,5 +1,5 @@
 <h2> 🌱 Olá, Bem vindo ao meu repositório!</h2>
-<img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalissonbatista&layout=compact&langs_count=7&theme=radical"/>
+<img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalissonbatist&layout=compact&langs_count=7&theme=radical"/>
 <h3> 🙋🏾‍♂️Me chamo Alisson Batista </h3>
 - 🎓 Estou cursando Engenharia de Software na UnB (Universidade de Brasília)<br>
 - 🏐 Sou jogador de volei<br>
