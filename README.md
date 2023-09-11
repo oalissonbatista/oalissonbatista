@@ -1,4 +1,4 @@
-<h2> 🌱 Olá, Bem vindo ao meu repositório!</h2>
+<h2> 🌱 Olá, bem vindo ao meu repositório!</h2>
 <div><img width="330vw" align = "right" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=oalissonbatista&layout=compact&langs_count=7&theme=radical"/></div>
 <div><h3> 🙋🏾‍♂️Me chamo Alisson Batista </h3>
 - 🎓 Estou cursando Engenharia de Software na UnB (Universidade de Brasília)<br>
